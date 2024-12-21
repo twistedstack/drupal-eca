@@ -1,8 +1,3 @@
-# drupal-eca
- 
-The current README.md file for the `drupal-eca` repository is mostly empty. Here is an initial draft for the README file:
-
----
 
 # Drupal ECA
 
